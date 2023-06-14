@@ -1,0 +1,2 @@
+#!/bin/bash
+for iin{a..z}a..z};do[[$i!=oo]]&& echo $i;done
